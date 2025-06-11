@@ -4,6 +4,6 @@ function printHelloWorld() {
 }
 
 //function call
-printHelloWorld();
+printHelloWorld();// Hello world
 
 
